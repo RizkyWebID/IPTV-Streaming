@@ -15,7 +15,7 @@ rtp://@239.1.1.195:9144
 #EXTINF:-1 tvg-logo="file:///home/hts/img/logo_aljazeera_hd.png" group-title="NEWS" tvg-id="005" tvg-name="005-AL-JAZEERA-HD", AL JAZEERA HD
 rtp://@239.1.2.8:8022
 
-#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_alquranalkareem.png" group-title="RELIGION" tvg-id="006" tvg-name="006-AL-QURAN-AL-KAREEM", AL-QURAN AL KAREEM
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_alquranalkareem.png" group-title="RELIGION" tvg-id="006" tvg-name="006-AL-QURAN-AL-KAREEM", AL QURAN AL KAREEM
 rtp://@239.1.1.185:9084
 
 #EXTINF:-1 tvg-logo="file:///home/hts/img/logo_animax.png" group-title="" tvg-id="007" tvg-name="007-ANIMAX", ANIMAX
@@ -354,10 +354,10 @@ rtp://@239.1.1.45:8244
 #EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indikids_hd.png" group-title="" tvg-id="118" tvg-name="118-INDIKIDS-HD", INDIKIDS HD
 rtp://@239.1.1.201:9180
 
-#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indonesianatv.png" group-title="KNOWLEDGE" tvg-id="119" tvg-name="119-INDONESIANA-TV", INDONESIANA.TV
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indonesianatv.png" group-title="KNOWLEDGE" tvg-id="119" tvg-name="119-INDONESIANA-TV", INDONESIANA TV
 rtp://@239.1.1.206:9199
 
-#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indonesianatv_hd.png" group-title="KNOWLEDGE" tvg-id="120" tvg-name="120-INDONESIANA-TV-HD", INDONESIANA.TV HD
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indonesianatv_hd.png" group-title="KNOWLEDGE" tvg-id="120" tvg-name="120-INDONESIANA-TV-HD", INDONESIANA TV HD
 rtp://@239.1.1.176:9197
 
 #EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indosiar.png" group-title="LOCAL" tvg-id="121" tvg-name="121-INDOSIAR", INDOSIAR
