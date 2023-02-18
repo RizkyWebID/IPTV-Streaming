@@ -803,7 +803,7 @@
 		
 	<channel id="GARUDA.TV.id">
 		<display-name lang="id">GARUDA TV</display-name>
-		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_garudatv.png" />
+		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="GARUDA.TV.id">
 		<title lang="id">GARUDA TV</title>
@@ -823,7 +823,7 @@
 		
 	<channel id="GPR.TV.id">
 		<display-name lang="id">GPR TV</display-name>
-		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_gprtv.png" />
+		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="GPR.TV.id">
 		<title lang="id">GPR TV</title>
