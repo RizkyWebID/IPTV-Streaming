@@ -516,10 +516,10 @@ rtp://@239.1.1.119:8688
 #EXTINF:-1 tvg-logo="file:///home/hts/img/logo_net_hd.png" group-title="LOCAL" tvg-id="172" tvg-name="172-NET-HD", NET HD
 rtp://@239.1.1.158:8922
 
-#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nhkworld.png" group-title="GENERAL ENTERTAINMENT" tvg-id="173" tvg-name="173-NHK-WORLD", NHK WORLD
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nhkworldjapan.png" group-title="GENERAL ENTERTAINMENT" tvg-id="173" tvg-name="173-NHK-WORLD-JAPAN", NHK WORLD JAPAN
 rtp://@239.1.1.236:9390
 
-#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nhkworld_hd.png" group-title="GENERAL ENTERTAINMENT" tvg-id="174" tvg-name="174-NHK-WORLD-HD", NHK WORLD HD
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nhkworldjapan_hd.png" group-title="GENERAL ENTERTAINMENT" tvg-id="174" tvg-name="174-NHK-WORLD-JAPAN-HD", NHK WORLD JAPAN HD
 rtp://@239.1.2.239:9354
 
 #EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nhkworldpremium.png" group-title="" tvg-id="175" tvg-name="175-NHK-WORLD-PREMIUM", NHK WORLD PREMIUM
@@ -606,7 +606,7 @@ rtp://@239.1.2.68:8384
 #EXTINF:-1 tvg-logo="file:///home/hts/img/logo_seatoday_hd.png" group-title="NEWS" tvg-id="202" tvg-name="202-SEA-TODAY-HD", SEA TODAY HD
 rtp://@239.1.2.70:8396
 
-#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_seru.png" group-title="GENERAL ENTERTAINMENT" tvg-id="203" tvg-name="203-SERU-", SERU!
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_seru.png" group-title="GENERAL ENTERTAINMENT" tvg-id="203" tvg-name="203-SERU", SERU
 rtp://@239.1.2.109:9524
 
 #EXTINF:-1 tvg-logo="file:///home/hts/img/logo_shenzentv_hd.png" group-title="" tvg-id="204" tvg-name="204-SHENZEN-TV-HD", SHENZEN TV HD

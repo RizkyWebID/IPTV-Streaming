@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="none" generator-info-url="none">
+
 	<channel id="ABC.AUSTRALIA.id">
 		<display-name lang="id">ABC AUSTRALIA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_abcaustralia.png" />
@@ -9,6 +10,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="AFN.id">
 		<display-name lang="id">AFN</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_afn.png" />
@@ -18,15 +20,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="AFN.HD.id">
 		<display-name lang="id">AFN HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_afn_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="AFN.HD.id">
-		<title lang="id">AFN</title>
+		<title lang="id">AFN HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="AL.JAZEERA.id">
 		<display-name lang="id">AL JAZEERA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_aljazeera.png" />
@@ -36,15 +40,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="AL.JAZEERA.HD.id">
 		<display-name lang="id">AL JAZEERA HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_aljazeera_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="AL.JAZEERA.HD.id">
-		<title lang="id">AL JAZEERA</title>
+		<title lang="id">AL JAZEERA HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="AL.QURAN.AL.KAREEM.id">
 		<display-name lang="id">AL QURAN AL KAREEM</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_alquranalkareem.png" />
@@ -54,6 +60,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ANIMAX.id">
 		<display-name lang="id">ANIMAX</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_animax.png" />
@@ -63,6 +70,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ANIPLUS.id">
 		<display-name lang="id">ANIPLUS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_aniplus.png" />
@@ -72,6 +80,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ANTARA.id">
 		<display-name lang="id">ANTARA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_antara.png" />
@@ -81,15 +90,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ANTARA.HD.id">
 		<display-name lang="id">ANTARA HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_antara_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="ANTARA.HD.id">
-		<title lang="id">ANTARA</title>
+		<title lang="id">ANTARA HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ANTV.id">
 		<display-name lang="id">ANTV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_antv.png" />
@@ -99,6 +110,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ARIRANG.id">
 		<display-name lang="id">ARIRANG</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_arirang.png" />
@@ -108,6 +120,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ATV.id">
 		<display-name lang="id">ATV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_atv.png" />
@@ -117,6 +130,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="AXN.id">
 		<display-name lang="id">AXN</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_axn.png" />
@@ -126,15 +140,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="AXN.HD.id">
 		<display-name lang="id">AXN HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_axn_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="AXN.HD.id">
-		<title lang="id">AXN</title>
+		<title lang="id">AXN HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="BABY.FIRST.id">
 		<display-name lang="id">BABY FIRST</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_babyfirst.png" />
@@ -144,6 +160,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="BALITV.id">
 		<display-name lang="id">BALITV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_balitv.png" />
@@ -153,6 +170,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="BEIN.SPORTS.1.id">
 		<display-name lang="id">BEIN SPORTS 1</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_beinsports1.png" />
@@ -162,15 +180,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="BEIN.SPORTS.1.HD.id">
 		<display-name lang="id">BEIN SPORTS 1 HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_beinsports1_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="BEIN.SPORTS.1.HD.id">
-		<title lang="id">BEIN SPORTS 1</title>
+		<title lang="id">BEIN SPORTS 1 HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="BEIN.SPORTS.3.id">
 		<display-name lang="id">BEIN SPORTS 3</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_beinsports3.png" />
@@ -180,15 +200,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="BEIN.SPORTS.3.HD.id">
 		<display-name lang="id">BEIN SPORTS 3 HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_beinsports3_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="BEIN.SPORTS.3.HD.id">
-		<title lang="id">BEIN SPORTS 3</title>
+		<title lang="id">BEIN SPORTS 3 HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="BERITA.SATU.id">
 		<display-name lang="id">BERITA SATU</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_beritasatu.png" />
@@ -198,15 +220,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="BERITA.SATU.HD.id">
 		<display-name lang="id">BERITA SATU HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_beritasatu_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="BERITA.SATU.HD.id">
-		<title lang="id">BERITA SATU</title>
+		<title lang="id">BERITA SATU HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="BIOSKOP.INDONESIA.id">
 		<display-name lang="id">BIOSKOP INDONESIA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_bioskopindonesia.png" />
@@ -216,6 +240,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="BLOOMBERG.id">
 		<display-name lang="id">BLOOMBERG</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_bloomberg.png" />
@@ -225,6 +250,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="BOOMERANG.id">
 		<display-name lang="id">BOOMERANG</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_boomerang.png" />
@@ -234,6 +260,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CARTOON.NETWORK.id">
 		<display-name lang="id">CARTOON NETWORK</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cartoonnetwork.png" />
@@ -243,6 +270,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CCTV4.id">
 		<display-name lang="id">CCTV4</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cctv4.png" />
@@ -252,6 +280,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CELESTIAL.MOVIES.id">
 		<display-name lang="id">CELESTIAL MOVIES</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_celestialmovies.png" />
@@ -261,6 +290,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CGTN.DOCUMENTARY.id">
 		<display-name lang="id">CGTN DOCUMENTARY</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cgtndocumentary.png" />
@@ -270,24 +300,27 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CGTN.DOCUMENTARY.HD.id">
 		<display-name lang="id">CGTN DOCUMENTARY HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cgtndocumentary_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="CGTN.DOCUMENTARY.HD.id">
-		<title lang="id">CGTN DOCUMENTARY</title>
+		<title lang="id">CGTN DOCUMENTARY HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CHINESE.DRAMA.HD.id">
 		<display-name lang="id">CHINESE DRAMA HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_chinesedrama_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="CHINESE.DRAMA.HD.id">
-		<title lang="id">CHINESE DRAMA</title>
+		<title lang="id">CHINESE DRAMA HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CINEMA.WORLD.id">
 		<display-name lang="id">CINEMA WORLD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cinemaworld.png" />
@@ -297,15 +330,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CINEMA.WORLD.HD.id">
 		<display-name lang="id">CINEMA WORLD HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cinemaworld_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="CINEMA.WORLD.HD.id">
-		<title lang="id">CINEMA WORLD</title>
+		<title lang="id">CINEMA WORLD HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CINEMAX.id">
 		<display-name lang="id">CINEMAX</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cinemax.png" />
@@ -315,24 +350,27 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CINEMAX.HD.id">
 		<display-name lang="id">CINEMAX HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cinemax_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="CINEMAX.HD.id">
-		<title lang="id">CINEMAX</title>
+		<title lang="id">CINEMAX HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CINEMAX.HD.id">
 		<display-name lang="id">CINEMAX HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cinemax_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="CINEMAX.HD.id">
-		<title lang="id">CINEMAX</title>
+		<title lang="id">CINEMAX HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CITRA.DANGDUT.id">
 		<display-name lang="id">CITRA DANGDUT</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_citradangdut.png" />
@@ -342,15 +380,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CITRA.DANGDUT.HD.id">
 		<display-name lang="id">CITRA DANGDUT HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_citradangdut_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="CITRA.DANGDUT.HD.id">
-		<title lang="id">CITRA DANGDUT</title>
+		<title lang="id">CITRA DANGDUT HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CITRA.DRAMA.id">
 		<display-name lang="id">CITRA DRAMA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_citradrama.png" />
@@ -360,15 +400,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CITRA.DRAMA.HD.id">
 		<display-name lang="id">CITRA DRAMA HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_citradrama_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="CITRA.DRAMA.HD.id">
-		<title lang="id">CITRA DRAMA</title>
+		<title lang="id">CITRA DRAMA HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CNA.id">
 		<display-name lang="id">CNA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cna.png" />
@@ -378,15 +420,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CNA.HD.id">
 		<display-name lang="id">CNA HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cna_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="CNA.HD.id">
-		<title lang="id">CNA</title>
+		<title lang="id">CNA HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CNBC.ASIA.id">
 		<display-name lang="id">CNBC ASIA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cnbcasia.png" />
@@ -396,6 +440,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CNBC.INDONESIA.id">
 		<display-name lang="id">CNBC INDONESIA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cnbcindonesia.png" />
@@ -405,15 +450,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CNBC.INDONESIA.HD.id">
 		<display-name lang="id">CNBC INDONESIA HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cnbcindonesia_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="CNBC.INDONESIA.HD.id">
-		<title lang="id">CNBC INDONESIA</title>
+		<title lang="id">CNBC INDONESIA HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CNN.INDONESIA.id">
 		<display-name lang="id">CNN INDONESIA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cnnindonesia.png" />
@@ -423,15 +470,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CNN.INDONESIA.HD.id">
 		<display-name lang="id">CNN INDONESIA HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cnnindonesia_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="CNN.INDONESIA.HD.id">
-		<title lang="id">CNN INDONESIA</title>
+		<title lang="id">CNN INDONESIA HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CNN.INTERNATIONAL.id">
 		<display-name lang="id">CNN INTERNATIONAL</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cnninternational.png" />
@@ -441,15 +490,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CNN.INTERNATIONAL.HD.id">
 		<display-name lang="id">CNN INTERNATIONAL HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_cnninternational_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="CNN.INTERNATIONAL.HD.id">
-		<title lang="id">CNN INTERNATIONAL</title>
+		<title lang="id">CNN INTERNATIONAL HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CRIME.INVESTIGATIONS.id">
 		<display-name lang="id">CRIME INVESTIGATIONS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_crimeinvestigations.png" />
@@ -459,6 +510,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="CTI.ASIA.id">
 		<display-name lang="id">CTI ASIA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_ctiasia.png" />
@@ -468,6 +520,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="DA.VINCI.LEARNING.id">
 		<display-name lang="id">DA VINCI LEARNING</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_davincilearning.png" />
@@ -477,6 +530,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="DAAI.TV.id">
 		<display-name lang="id">DAAI TV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_daaitv.png" />
@@ -486,6 +540,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="DISCOVERY.CHANNEL.id">
 		<display-name lang="id">DISCOVERY CHANNEL</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_discoverychannel.png" />
@@ -495,24 +550,27 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="DISCOVERY.CHANNEL.HD.id">
 		<display-name lang="id">DISCOVERY CHANNEL HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_discoverychannel_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="DISCOVERY.CHANNEL.HD.id">
-		<title lang="id">DISCOVERY CHANNEL</title>
+		<title lang="id">DISCOVERY CHANNEL HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="DRAMA.KOREA.HD.id">
 		<display-name lang="id">DRAMA KOREA HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_dramakorea_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="DRAMA.KOREA.HD.id">
-		<title lang="id">DRAMA KOREA</title>
+		<title lang="id">DRAMA KOREA HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="DREAMWORKS.id">
 		<display-name lang="id">DREAMWORKS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_dreamworks.png" />
@@ -522,15 +580,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="DREAMWORKS.HD.id">
 		<display-name lang="id">DREAMWORKS HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_dreamworks_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="DREAMWORKS.HD.id">
-		<title lang="id">DREAMWORKS</title>
+		<title lang="id">DREAMWORKS HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="DUNIA.ANAK.id">
 		<display-name lang="id">DUNIA ANAK</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_duniaanak.png" />
@@ -540,6 +600,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="DUNIA.LAIN.id">
 		<display-name lang="id">DUNIA LAIN</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_dunialain.png" />
@@ -549,6 +610,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="DW.id">
 		<display-name lang="id">DW</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_dw.png" />
@@ -558,15 +620,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="DW.HD.id">
 		<display-name lang="id">DW HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_dw_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="DW.HD.id">
-		<title lang="id">DW</title>
+		<title lang="id">DW HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="EAT.GO.id">
 		<display-name lang="id">EAT GO</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_eatgo.png" />
@@ -576,6 +640,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="EBC.ASIA.id">
 		<display-name lang="id">EBC ASIA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_ebcasia.png" />
@@ -585,6 +650,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="EGG.NETWORK.id">
 		<display-name lang="id">EGG NETWORK</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_eggnetwork.png" />
@@ -594,15 +660,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="EGG.NETWORK.HD.id">
 		<display-name lang="id">EGG NETWORK HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_eggnetwork_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="EGG.NETWORK.HD.id">
-		<title lang="id">EGG NETWORK</title>
+		<title lang="id">EGG NETWORK HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="EURONEWS.id">
 		<display-name lang="id">EURONEWS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_euronews.png" />
@@ -612,6 +680,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="FASHION.TV.id">
 		<display-name lang="id">FASHION TV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_fashiontv.png" />
@@ -621,15 +690,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="FASHION.TV.HD.id">
 		<display-name lang="id">FASHION TV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_fashiontv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="FASHION.TV.HD.id">
-		<title lang="id">FASHION TV</title>
+		<title lang="id">FASHION TV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="FIGHT.SPORT.id">
 		<display-name lang="id">FIGHT SPORT</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_fightsport.png" />
@@ -639,15 +710,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="FIGHT.SPORT.HD.id">
 		<display-name lang="id">FIGHT SPORT HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_fightsport_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="FIGHT.SPORT.HD.id">
-		<title lang="id">FIGHT SPORT</title>
+		<title lang="id">FIGHT SPORT HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="FLIK.id">
 		<display-name lang="id">FLIK</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_flik.png" />
@@ -657,15 +730,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="FLIK.HD.id">
 		<display-name lang="id">FLIK HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_flik_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="FLIK.HD.id">
-		<title lang="id">FLIK</title>
+		<title lang="id">FLIK HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="FLIK.id">
 		<display-name lang="id">FLIK</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_flik.png" />
@@ -675,6 +750,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="FORMOSA.id">
 		<display-name lang="id">FORMOSA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_formosa.png" />
@@ -684,6 +760,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="FRANCE.24.id">
 		<display-name lang="id">FRANCE 24</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_france24.png" />
@@ -693,15 +770,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="FRANCE.24.HD.id">
 		<display-name lang="id">FRANCE 24 HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_france24_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="FRANCE.24.HD.id">
-		<title lang="id">FRANCE 24</title>
+		<title lang="id">FRANCE 24 HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="GALAXY.id">
 		<display-name lang="id">GALAXY</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_galaxy.png" />
@@ -711,6 +790,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="GALAXY.PREMIUM.id">
 		<display-name lang="id">GALAXY PREMIUM</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_galaxypremium.png" />
@@ -720,6 +800,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="GARUDA.TV.id">
 		<display-name lang="id">GARUDA TV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_garudatv.png" />
@@ -729,6 +810,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="GEM.id">
 		<display-name lang="id">GEM</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_gem.png" />
@@ -738,6 +820,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="GPR.TV.id">
 		<display-name lang="id">GPR TV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_gprtv.png" />
@@ -747,6 +830,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HBO.id">
 		<display-name lang="id">HBO</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hbo.png" />
@@ -756,24 +840,27 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HBO.HD.id">
 		<display-name lang="id">HBO HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hbo_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="HBO.HD.id">
-		<title lang="id">HBO</title>
+		<title lang="id">HBO HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HBO.HD.id">
 		<display-name lang="id">HBO HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hbo_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="HBO.HD.id">
-		<title lang="id">HBO</title>
+		<title lang="id">HBO HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HBO.FAMILY.id">
 		<display-name lang="id">HBO FAMILY</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hbofamily.png" />
@@ -783,24 +870,27 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HBO.FAMILY.HD.id">
 		<display-name lang="id">HBO FAMILY HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hbofamily_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="HBO.FAMILY.HD.id">
-		<title lang="id">HBO FAMILY</title>
+		<title lang="id">HBO FAMILY HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HBO.FAMILY.HD.id">
 		<display-name lang="id">HBO FAMILY HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hbofamily_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="HBO.FAMILY.HD.id">
-		<title lang="id">HBO FAMILY</title>
+		<title lang="id">HBO FAMILY HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HBO.HITS.id">
 		<display-name lang="id">HBO HITS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hbohits.png" />
@@ -810,24 +900,27 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HBO.HITS.HD.id">
 		<display-name lang="id">HBO HITS HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hbohits_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="HBO.HITS.HD.id">
-		<title lang="id">HBO HITS</title>
+		<title lang="id">HBO HITS HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HBO.HITS.HD.id">
 		<display-name lang="id">HBO HITS HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hbohits_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="HBO.HITS.HD.id">
-		<title lang="id">HBO HITS</title>
+		<title lang="id">HBO HITS HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HBO.SIGNATURE.id">
 		<display-name lang="id">HBO SIGNATURE</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hbosignature.png" />
@@ -837,24 +930,27 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HBO.SIGNATURE.HD.id">
 		<display-name lang="id">HBO SIGNATURE HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hbosignature_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="HBO.SIGNATURE.HD.id">
-		<title lang="id">HBO SIGNATURE</title>
+		<title lang="id">HBO SIGNATURE HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HBO.SIGNATURE.HD.id">
 		<display-name lang="id">HBO SIGNATURE HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hbosignature_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="HBO.SIGNATURE.HD.id">
-		<title lang="id">HBO SIGNATURE</title>
+		<title lang="id">HBO SIGNATURE HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HGTV.id">
 		<display-name lang="id">HGTV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hgtv.png" />
@@ -864,15 +960,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HGTV.HD.id">
 		<display-name lang="id">HGTV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hgtv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="HGTV.HD.id">
-		<title lang="id">HGTV</title>
+		<title lang="id">HGTV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HISTORY.CHANNEL.id">
 		<display-name lang="id">HISTORY CHANNEL</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_historychannel.png" />
@@ -882,15 +980,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HISTORY.CHANNEL.HD.id">
 		<display-name lang="id">HISTORY CHANNEL HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_historychannel_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="HISTORY.CHANNEL.HD.id">
-		<title lang="id">HISTORY CHANNEL</title>
+		<title lang="id">HISTORY CHANNEL HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HITS.id">
 		<display-name lang="id">HITS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hits.png" />
@@ -900,15 +1000,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HITS.HD.id">
 		<display-name lang="id">HITS HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hits_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="HITS.HD.id">
-		<title lang="id">HITS</title>
+		<title lang="id">HITS HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HITS.MOVIES.id">
 		<display-name lang="id">HITS MOVIES</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hitsmovies.png" />
@@ -918,15 +1020,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HITS.MOVIES.HD.id">
 		<display-name lang="id">HITS MOVIES HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hitsmovies_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="HITS.MOVIES.HD.id">
-		<title lang="id">HITS MOVIES</title>
+		<title lang="id">HITS MOVIES HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HOPE.CHANNEL.id">
 		<display-name lang="id">HOPE CHANNEL</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_hopechannel.png" />
@@ -936,6 +1040,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HOREE.id">
 		<display-name lang="id">HOREE</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_horee.png" />
@@ -945,15 +1050,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HOREE.HD.id">
 		<display-name lang="id">HOREE HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_horee_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="HOREE.HD.id">
-		<title lang="id">HOREE</title>
+		<title lang="id">HOREE HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HORIZON.SPORTS.id">
 		<display-name lang="id">HORIZON SPORTS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_horizonsports.png" />
@@ -963,15 +1070,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HORIZON.SPORTS.HD.id">
 		<display-name lang="id">HORIZON SPORTS HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_horizonsports_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="HORIZON.SPORTS.HD.id">
-		<title lang="id">HORIZON SPORTS</title>
+		<title lang="id">HORIZON SPORTS HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="HORIZON.SPORTS.id">
 		<display-name lang="id">HORIZON SPORTS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_horizonsports.png" />
@@ -981,6 +1090,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="IDX.CHANNEL.id">
 		<display-name lang="id">IDX CHANNEL</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_idxchannel.png" />
@@ -990,6 +1100,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="IKONSER.id">
 		<display-name lang="id">IKONSER</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_ikonser.png" />
@@ -999,15 +1110,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="IKONSER.HD.id">
 		<display-name lang="id">IKONSER HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_ikonser_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="IKONSER.HD.id">
-		<title lang="id">IKONSER</title>
+		<title lang="id">IKONSER HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="IMC.id">
 		<display-name lang="id">IMC</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_imc.png" />
@@ -1017,33 +1130,37 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="IMC.HD.id">
 		<display-name lang="id">IMC HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_imc_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="IMC.HD.id">
-		<title lang="id">IMC</title>
+		<title lang="id">IMC HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="INDIHOME.CINEMA.HD.id">
 		<display-name lang="id">INDIHOME CINEMA HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="INDIHOME.CINEMA.HD.id">
-		<title lang="id">INDIHOME CINEMA</title>
+		<title lang="id">INDIHOME CINEMA HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="INDIHOME.SHOPPING.HD.id">
 		<display-name lang="id">INDIHOME SHOPPING HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_indihomeshopping_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="INDIHOME.SHOPPING.HD.id">
-		<title lang="id">INDIHOME SHOPPING</title>
+		<title lang="id">INDIHOME SHOPPING HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="INDIKIDS.id">
 		<display-name lang="id">INDIKIDS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_indikids.png" />
@@ -1053,33 +1170,37 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="INDIKIDS.HD.id">
 		<display-name lang="id">INDIKIDS HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_indikids_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="INDIKIDS.HD.id">
-		<title lang="id">INDIKIDS</title>
+		<title lang="id">INDIKIDS HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="INDONESIANA.TV.id">
 		<display-name lang="id">INDONESIANA TV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_indonesianatv.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="INDONESIANA.TV.id">
-		<title lang="id">INDONESIANA.TV</title>
+		<title lang="id">INDONESIANA TV</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="INDONESIANA.TV.HD.id">
 		<display-name lang="id">INDONESIANA TV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_indonesianatv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="INDONESIANA.TV.HD.id">
-		<title lang="id">INDONESIANA.TV</title>
+		<title lang="id">INDONESIANA TV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="INDOSIAR.id">
 		<display-name lang="id">INDOSIAR</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_indosiar.png" />
@@ -1089,15 +1210,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="INDOSIAR.HD.id">
 		<display-name lang="id">INDOSIAR HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_indosiar_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="INDOSIAR.HD.id">
-		<title lang="id">INDOSIAR</title>
+		<title lang="id">INDOSIAR HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="INEWS.id">
 		<display-name lang="id">INEWS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_inews.png" />
@@ -1107,6 +1230,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="INSERT.id">
 		<display-name lang="id">INSERT</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_insert.png" />
@@ -1116,6 +1240,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="JAKTV.id">
 		<display-name lang="id">JAKTV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_jaktv.png" />
@@ -1125,6 +1250,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="JOWO.id">
 		<display-name lang="id">JOWO</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_jowo.png" />
@@ -1134,24 +1260,27 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="JOWO.HD.id">
 		<display-name lang="id">JOWO HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_jowo_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="JOWO.HD.id">
-		<title lang="id">JOWO</title>
+		<title lang="id">JOWO HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="JOWO.HD.id">
 		<display-name lang="id">JOWO HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_jowo_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="JOWO.HD.id">
-		<title lang="id">JOWO</title>
+		<title lang="id">JOWO HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="JTV.id">
 		<display-name lang="id">JTV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_jtv.png" />
@@ -1161,6 +1290,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="K.PLUS.id">
 		<display-name lang="id">K PLUS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_kplus.png" />
@@ -1170,15 +1300,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="K.PLUS.HD.id">
 		<display-name lang="id">K PLUS HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_kplus_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="K.PLUS.HD.id">
-		<title lang="id">K PLUS</title>
+		<title lang="id">K PLUS HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="KBS.WORLD.id">
 		<display-name lang="id">KBS WORLD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_kbsworld.png" />
@@ -1188,15 +1320,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="KBS.WORLD.HD.id">
 		<display-name lang="id">KBS WORLD HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_kbsworld_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="KBS.WORLD.HD.id">
-		<title lang="id">KBS WORLD</title>
+		<title lang="id">KBS WORLD HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="KIX.id">
 		<display-name lang="id">KIX</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_kix.png" />
@@ -1206,15 +1340,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="KIX.HD.id">
 		<display-name lang="id">KIX HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_kix_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="KIX.HD.id">
-		<title lang="id">KIX</title>
+		<title lang="id">KIX HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="KOMPAS.TV.id">
 		<display-name lang="id">KOMPAS TV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_kompastv.png" />
@@ -1224,24 +1360,27 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="KOMPAS.TV.HD.id">
 		<display-name lang="id">KOMPAS TV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_kompastv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="KOMPAS.TV.HD.id">
-		<title lang="id">KOMPAS TV</title>
+		<title lang="id">KOMPAS TV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="KUNGFU.TV.HD.id">
 		<display-name lang="id">KUNGFU TV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_kungfutv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="KUNGFU.TV.HD.id">
-		<title lang="id">KUNGFU TV</title>
+		<title lang="id">KUNGFU TV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="LEJEL.HOME.SHOPING.LIVE.id">
 		<display-name lang="id">LEJEL HOME SHOPING LIVE</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_lejelhomeshoping.png" />
@@ -1251,6 +1390,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="LEJEL.HOME.SHOPING.REGULER.id">
 		<display-name lang="id">LEJEL HOME SHOPING REGULER</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_lejelhomeshoping.png" />
@@ -1260,6 +1400,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="LIFETIME.id">
 		<display-name lang="id">LIFETIME</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_lifetime.png" />
@@ -1269,15 +1410,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="LIFETIME.HD.id">
 		<display-name lang="id">LIFETIME HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_lifetime_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="LIFETIME.HD.id">
-		<title lang="id">LIFETIME</title>
+		<title lang="id">LIFETIME HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="LINGUA.CHANNEL.id">
 		<display-name lang="id">LINGUA CHANNEL</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_linguachannel.png" />
@@ -1287,6 +1430,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MENTARI.TV.id">
 		<display-name lang="id">MENTARI TV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mentaritv.png" />
@@ -1296,15 +1440,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MENTARI.TV.HD.id">
 		<display-name lang="id">MENTARI TV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mentaritv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="MENTARI.TV.HD.id">
-		<title lang="id">MENTARI TV</title>
+		<title lang="id">MENTARI TV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="METRO.TV.id">
 		<display-name lang="id">METRO TV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_metrotv.png" />
@@ -1314,15 +1460,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="METRO.TV.HD.id">
 		<display-name lang="id">METRO TV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_metrotv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="METRO.TV.HD.id">
-		<title lang="id">METRO TV</title>
+		<title lang="id">METRO TV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MNC.NEWS.id">
 		<display-name lang="id">MNC NEWS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mncnews.png" />
@@ -1332,6 +1480,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MOJI.TV.id">
 		<display-name lang="id">MOJI TV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mojitv.png" />
@@ -1341,15 +1490,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MOJI.TV.HD.id">
 		<display-name lang="id">MOJI TV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mojitv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="MOJI.TV.HD.id">
-		<title lang="id">MOJI TV</title>
+		<title lang="id">MOJI TV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MQTV.id">
 		<display-name lang="id">MQTV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mqtv.png" />
@@ -1359,6 +1510,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MSHOP.SIGNATURE.id">
 		<display-name lang="id">MSHOP SIGNATURE</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mshopsignature.png" />
@@ -1368,6 +1520,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MSHOP.SUPER.SALE.id">
 		<display-name lang="id">MSHOP SUPER SALE</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mshopsupersale.png" />
@@ -1377,6 +1530,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MTA.TV.id">
 		<display-name lang="id">MTA TV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mtatv.png" />
@@ -1386,6 +1540,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MTV.LIVE.id">
 		<display-name lang="id">MTV LIVE</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mtvlive.png" />
@@ -1395,15 +1550,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MTV.LIVE.HD.id">
 		<display-name lang="id">MTV LIVE HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mtvlive_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="MTV.LIVE.HD.id">
-		<title lang="id">MTV LIVE</title>
+		<title lang="id">MTV LIVE HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MUSIK.INDONESIA.id">
 		<display-name lang="id">MUSIK INDONESIA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_musikindonesia.png" />
@@ -1413,6 +1570,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MY.CINEMA.id">
 		<display-name lang="id">MY CINEMA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mycinema.png" />
@@ -1422,15 +1580,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MY.CINEMA.HD.id">
 		<display-name lang="id">MY CINEMA HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mycinema_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="MY.CINEMA.HD.id">
-		<title lang="id">MY CINEMA</title>
+		<title lang="id">MY CINEMA HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MY.CINEMA.ASIA.id">
 		<display-name lang="id">MY CINEMA ASIA</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mycinemaasia.png" />
@@ -1440,6 +1600,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MY.FAMILY.CHANNEL.id">
 		<display-name lang="id">MY FAMILY CHANNEL</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_myfamilychannel.png" />
@@ -1449,15 +1610,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MY.FAMILY.CHANNEL.HD.id">
 		<display-name lang="id">MY FAMILY CHANNEL HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_myfamilychannel_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="MY.FAMILY.CHANNEL.HD.id">
-		<title lang="id">MY FAMILY CHANNEL</title>
+		<title lang="id">MY FAMILY CHANNEL HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MY.KIDZ.id">
 		<display-name lang="id">MY KIDZ</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mykidz.png" />
@@ -1467,15 +1630,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="MY.KIDZ.HD.id">
 		<display-name lang="id">MY KIDZ HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mykidz_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="MY.KIDZ.HD.id">
-		<title lang="id">MY KIDZ</title>
+		<title lang="id">MY KIDZ HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="NAT.GEO.CHANNEL.id">
 		<display-name lang="id">NAT GEO CHANNEL</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_natgeochannel.png" />
@@ -1485,15 +1650,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="NAT.GEO.CHANNEL.HD.id">
 		<display-name lang="id">NAT GEO CHANNEL HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_natgeochannel_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="NAT.GEO.CHANNEL.HD.id">
-		<title lang="id">NAT GEO CHANNEL</title>
+		<title lang="id">NAT GEO CHANNEL HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="NAT.GEO.WILD.id">
 		<display-name lang="id">NAT GEO WILD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_natgeowild.png" />
@@ -1503,33 +1670,37 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="NAT.GEO.WILD.HD.id">
 		<display-name lang="id">NAT GEO WILD HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_natgeowild_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="NAT.GEO.WILD.HD.id">
-		<title lang="id">NAT GEO WILD</title>
+		<title lang="id">NAT GEO WILD HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="NBA.TV.HD.id">
 		<display-name lang="id">NBA TV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nbatv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="NBA.TV.HD.id">
-		<title lang="id">NBA TV</title>
+		<title lang="id">NBA TV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="NBA.TV.HD.id">
 		<display-name lang="id">NBA TV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nbatv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="NBA.TV.HD.id">
-		<title lang="id">NBA TV</title>
+		<title lang="id">NBA TV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="NET.id">
 		<display-name lang="id">NET</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_net.png" />
@@ -1539,33 +1710,37 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="NET.HD.id">
 		<display-name lang="id">NET HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_net_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="NET.HD.id">
-		<title lang="id">NET</title>
+		<title lang="id">NET HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
-	<channel id="NHK.WORLD.id">
-		<display-name lang="id">NHK WORLD</display-name>
-		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nhkworld.png" />
+		
+	<channel id="NHK.WORLD.JAPAN.id">
+		<display-name lang="id">NHK WORLD JAPAN</display-name>
+		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nhkworldjapan.png" />
 	</channel>
-	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="NHK.WORLD.id">
-		<title lang="id">NHK WORLD</title>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="NHK.WORLD.JAPAN.id">
+		<title lang="id">NHK WORLD JAPAN</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
-	<channel id="NHK.WORLD.HD.id">
-		<display-name lang="id">NHK WORLD HD</display-name>
-		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nhkworld_hd.png" />
+		
+	<channel id="NHK.WORLD.JAPAN.HD.id">
+		<display-name lang="id">NHK WORLD JAPAN HD</display-name>
+		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nhkworldjapan_hd.png" />
 	</channel>
-	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="NHK.WORLD.HD.id">
-		<title lang="id">NHK WORLD</title>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="NHK.WORLD.JAPAN.HD.id">
+		<title lang="id">NHK WORLD JAPAN HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="NHK.WORLD.PREMIUM.id">
 		<display-name lang="id">NHK WORLD PREMIUM</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nhkworldpremium.png" />
@@ -1575,15 +1750,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="NHK.WORLD.PREMIUM.HD.id">
 		<display-name lang="id">NHK WORLD PREMIUM HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nhkworldpremium_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="NHK.WORLD.PREMIUM.HD.id">
-		<title lang="id">NHK WORLD PREMIUM</title>
+		<title lang="id">NHK WORLD PREMIUM HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="NICK.JR.id">
 		<display-name lang="id">NICK JR</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nickjr.png" />
@@ -1593,6 +1770,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="NICKELODEON.id">
 		<display-name lang="id">NICKELODEON</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nickelodeon.png" />
@@ -1602,6 +1780,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="NUSANTARA.TV.id">
 		<display-name lang="id">NUSANTARA TV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nusantaratv.png" />
@@ -1611,6 +1790,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ONE.id">
 		<display-name lang="id">ONE</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_one.png" />
@@ -1620,33 +1800,37 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ONE.HD.id">
 		<display-name lang="id">ONE HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_one_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="ONE.HD.id">
-		<title lang="id">ONE</title>
+		<title lang="id">ONE HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ONE.HD.id">
 		<display-name lang="id">ONE HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_one_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="ONE.HD.id">
-		<title lang="id">ONE</title>
+		<title lang="id">ONE HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="PANDA.TV.HD.id">
 		<display-name lang="id">PANDA TV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_pandatv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="PANDA.TV.HD.id">
-		<title lang="id">PANDA TV</title>
+		<title lang="id">PANDA TV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="PARAMOUNT.CHANNEL.id">
 		<display-name lang="id">PARAMOUNT CHANNEL</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_paramountchannel.png" />
@@ -1656,15 +1840,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="PARAMOUNT.CHANNEL.HD.id">
 		<display-name lang="id">PARAMOUNT CHANNEL HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_paramountchannel_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="PARAMOUNT.CHANNEL.HD.id">
-		<title lang="id">PARAMOUNT CHANNEL</title>
+		<title lang="id">PARAMOUNT CHANNEL HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="PRAMBORS.id">
 		<display-name lang="id">PRAMBORS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_prambors.png" />
@@ -1674,15 +1860,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="PRAMBORS.HD.id">
 		<display-name lang="id">PRAMBORS HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_prambors_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="PRAMBORS.HD.id">
-		<title lang="id">PRAMBORS</title>
+		<title lang="id">PRAMBORS HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ROCK.ENTERTAIMENT.id">
 		<display-name lang="id">ROCK ENTERTAIMENT</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_rockentertaiment.png" />
@@ -1692,15 +1880,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ROCK.ENTERTAIMENT.HD.id">
 		<display-name lang="id">ROCK ENTERTAIMENT HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_rockentertaiment_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="ROCK.ENTERTAIMENT.HD.id">
-		<title lang="id">ROCK ENTERTAIMENT</title>
+		<title lang="id">ROCK ENTERTAIMENT HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ROCK.EXTREME.id">
 		<display-name lang="id">ROCK EXTREME</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_rockextreme.png" />
@@ -1710,15 +1900,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ROCK.EXTREME.HD.id">
 		<display-name lang="id">ROCK EXTREME HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_rockextreme_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="ROCK.EXTREME.HD.id">
-		<title lang="id">ROCK EXTREME</title>
+		<title lang="id">ROCK EXTREME HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="RODJA.TV.id">
 		<display-name lang="id">RODJA TV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_rodjatv.png" />
@@ -1728,6 +1920,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="RRI.NET.id">
 		<display-name lang="id">RRI NET</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_rrinet.png" />
@@ -1737,15 +1930,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="RRI.NET.HD.id">
 		<display-name lang="id">RRI NET HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_rrinet_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="RRI.NET.HD.id">
-		<title lang="id">RRI NET</title>
+		<title lang="id">RRI NET HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="RTV.id">
 		<display-name lang="id">RTV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_rtv.png" />
@@ -1755,15 +1950,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="RTV.HD.id">
 		<display-name lang="id">RTV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_rtv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="RTV.HD.id">
-		<title lang="id">RTV</title>
+		<title lang="id">RTV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="RUANG.TRAMPIL.id">
 		<display-name lang="id">RUANG TRAMPIL</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_ruangtrampil.png" />
@@ -1773,15 +1970,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="RUANG.TRAMPIL.HD.id">
 		<display-name lang="id">RUANG TRAMPIL HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_ruangtrampil_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="RUANG.TRAMPIL.HD.id">
-		<title lang="id">RUANG TRAMPIL</title>
+		<title lang="id">RUANG TRAMPIL HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="SCTV.id">
 		<display-name lang="id">SCTV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_sctv.png" />
@@ -1791,51 +1990,57 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="SCTV.HD.id">
 		<display-name lang="id">SCTV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_sctv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="SCTV.HD.id">
-		<title lang="id">SCTV</title>
+		<title lang="id">SCTV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="SEA.TODAY.HD.id">
 		<display-name lang="id">SEA TODAY HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_seatoday_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="SEA.TODAY.HD.id">
-		<title lang="id">SEA TODAY</title>
+		<title lang="id">SEA TODAY HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="SEA.TODAY.HD.id">
 		<display-name lang="id">SEA TODAY HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_seatoday_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="SEA.TODAY.HD.id">
-		<title lang="id">SEA TODAY</title>
+		<title lang="id">SEA TODAY HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
-	<channel id="SERU..id">
-		<display-name lang="id">SERU </display-name>
+		
+	<channel id="SERU.id">
+		<display-name lang="id">SERU</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_seru.png" />
 	</channel>
-	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="SERU..id">
-		<title lang="id">SERU!</title>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="SERU.id">
+		<title lang="id">SERU</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="SHENZEN.TV.HD.id">
 		<display-name lang="id">SHENZEN TV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_shenzentv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="SHENZEN.TV.HD.id">
-		<title lang="id">SHENZEN TV</title>
+		<title lang="id">SHENZEN TV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="STAR.CHINESE.CHANNEL.id">
 		<display-name lang="id">STAR CHINESE CHANNEL</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_starchinesechannel.png" />
@@ -1845,6 +2050,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="STAR.CHINESE.MOVIES.id">
 		<display-name lang="id">STAR CHINESE MOVIES</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_starchinesemovies.png" />
@@ -1854,15 +2060,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="STAR.CHINESE.MOVIES.HD.id">
 		<display-name lang="id">STAR CHINESE MOVIES HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_starchinesemovies_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="STAR.CHINESE.MOVIES.HD.id">
-		<title lang="id">STAR CHINESE MOVIES</title>
+		<title lang="id">STAR CHINESE MOVIES HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TAWAF.TV.id">
 		<display-name lang="id">TAWAF TV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tawaftv.png" />
@@ -1872,6 +2080,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TECH.STORM.id">
 		<display-name lang="id">TECH STORM</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_techstorm.png" />
@@ -1881,24 +2090,27 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TECH.STORM.HD.id">
 		<display-name lang="id">TECH STORM HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_techstorm_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TECH.STORM.HD.id">
-		<title lang="id">TECH STORM</title>
+		<title lang="id">TECH STORM HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TELKOM.GROUP.TV.HD.id">
 		<display-name lang="id">TELKOM GROUP TV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_telkomgrouptv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TELKOM.GROUP.TV.HD.id">
-		<title lang="id">TELKOM GROUP TV</title>
+		<title lang="id">TELKOM GROUP TV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="THRILL.id">
 		<display-name lang="id">THRILL</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_thrill.png" />
@@ -1908,6 +2120,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TLC.id">
 		<display-name lang="id">TLC</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tlc.png" />
@@ -1917,15 +2130,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TLC.HD.id">
 		<display-name lang="id">TLC HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tlc_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TLC.HD.id">
-		<title lang="id">TLC</title>
+		<title lang="id">TLC HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TRANS7.id">
 		<display-name lang="id">TRANS7</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_trans7.png" />
@@ -1935,15 +2150,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TRANS7.HD.id">
 		<display-name lang="id">TRANS7 HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_trans7_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TRANS7.HD.id">
-		<title lang="id">TRANS7</title>
+		<title lang="id">TRANS7 HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TRANSTV.id">
 		<display-name lang="id">TRANSTV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_transtv.png" />
@@ -1953,15 +2170,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TRANSTV.HD.id">
 		<display-name lang="id">TRANSTV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_transtv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TRANSTV.HD.id">
-		<title lang="id">TRANSTV</title>
+		<title lang="id">TRANSTV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TRT.WORLD.id">
 		<display-name lang="id">TRT WORLD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_trtworld.png" />
@@ -1971,15 +2190,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TRT.WORLD.HD.id">
 		<display-name lang="id">TRT WORLD HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_trtworld_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TRT.WORLD.HD.id">
-		<title lang="id">TRT WORLD</title>
+		<title lang="id">TRT WORLD HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TV.EDUKASI.id">
 		<display-name lang="id">TV EDUKASI</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tvedukasi.png" />
@@ -1989,6 +2210,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TV.MUI.id">
 		<display-name lang="id">TV MUI</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tvmui.png" />
@@ -1998,6 +2220,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TV5MONDE.id">
 		<display-name lang="id">TV5MONDE</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tv5monde.png" />
@@ -2007,6 +2230,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TV9.id">
 		<display-name lang="id">TV9</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tv9.png" />
@@ -2016,6 +2240,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TVBS.NEWS.id">
 		<display-name lang="id">TVBS NEWS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tvbsnews.png" />
@@ -2025,6 +2250,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TVMU.id">
 		<display-name lang="id">TVMU</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tvmu.png" />
@@ -2034,6 +2260,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TVN.id">
 		<display-name lang="id">TVN</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tvn.png" />
@@ -2043,15 +2270,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TVN.HD.id">
 		<display-name lang="id">TVN HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tvn_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVN.HD.id">
-		<title lang="id">TVN</title>
+		<title lang="id">TVN HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TVN.MOVIES.id">
 		<display-name lang="id">TVN MOVIES</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tvnmovies.png" />
@@ -2061,15 +2290,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TVN.MOVIES.HD.id">
 		<display-name lang="id">TVN MOVIES HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tvnmovies_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVN.MOVIES.HD.id">
-		<title lang="id">TVN MOVIES</title>
+		<title lang="id">TVN MOVIES HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TVONE.id">
 		<display-name lang="id">TVONE</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tvone.png" />
@@ -2079,6 +2310,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TVRI.id">
 		<display-name lang="id">TVRI</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tvri.png" />
@@ -2088,15 +2320,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="TVRI.HD.id">
 		<display-name lang="id">TVRI HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tvri_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.HD.id">
-		<title lang="id">TVRI</title>
+		<title lang="id">TVRI HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="U.CHANNEL.id">
 		<display-name lang="id">U CHANNEL</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_uchannel.png" />
@@ -2106,6 +2340,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="USEE.MOZAIK.id">
 		<display-name lang="id">USEE MOZAIK</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_useemozaik.png" />
@@ -2115,6 +2350,7 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="USEE.PHOTO.id">
 		<display-name lang="id">USEE PHOTO</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_useephoto.png" />
@@ -2124,15 +2360,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="USEE.PHOTO.HD.id">
 		<display-name lang="id">USEE PHOTO HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_useephoto_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="USEE.PHOTO.HD.id">
-		<title lang="id">USEE PHOTO</title>
+		<title lang="id">USEE PHOTO HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="USEE.PRIME.id">
 		<display-name lang="id">USEE PRIME</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_useeprime.png" />
@@ -2142,15 +2380,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="USEE.PRIME.HD.id">
 		<display-name lang="id">USEE PRIME HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_useeprime_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="USEE.PRIME.HD.id">
-		<title lang="id">USEE PRIME</title>
+		<title lang="id">USEE PRIME HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="USEE.SPORTS.id">
 		<display-name lang="id">USEE SPORTS</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_useesports.png" />
@@ -2160,15 +2400,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="USEE.SPORTS.HD.id">
 		<display-name lang="id">USEE SPORTS HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_useesports_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="USEE.SPORTS.HD.id">
-		<title lang="id">USEE SPORTS</title>
+		<title lang="id">USEE SPORTS HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="USEE.SPORTS.2.id">
 		<display-name lang="id">USEE SPORTS 2</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_useesports2.png" />
@@ -2178,24 +2420,27 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="USEE.SPORTS.2.HD.id">
 		<display-name lang="id">USEE SPORTS 2 HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_useesports2_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="USEE.SPORTS.2.HD.id">
-		<title lang="id">USEE SPORTS 2</title>
+		<title lang="id">USEE SPORTS 2 HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="USEE.TODAY.HD.id">
 		<display-name lang="id">USEE TODAY HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_useetoday_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="USEE.TODAY.HD.id">
-		<title lang="id">USEE TODAY</title>
+		<title lang="id">USEE TODAY HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="WARNER.TV.id">
 		<display-name lang="id">WARNER TV</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_warnertv.png" />
@@ -2205,15 +2450,17 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="WARNER.TV.HD.id">
 		<display-name lang="id">WARNER TV HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_warnertv_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="WARNER.TV.HD.id">
-		<title lang="id">WARNER TV</title>
+		<title lang="id">WARNER TV HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ZEE.BIOSKOP.id">
 		<display-name lang="id">ZEE BIOSKOP</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_zeebioskop.png" />
@@ -2223,12 +2470,14 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+		
 	<channel id="ZHENJIANG.HD.id">
 		<display-name lang="id">ZHENJIANG HD</display-name>
 		<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_zhenjiang_hd.png" />
 	</channel>
 	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="ZHENJIANG.HD.id">
-		<title lang="id">ZHENJIANG</title>
+		<title lang="id">ZHENJIANG HD</title>
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
+
 </tv>
