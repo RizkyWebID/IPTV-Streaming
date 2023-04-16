@@ -1522,12 +1522,12 @@
 			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
-	<channel id="NBA.TV.HD.id">
-			<display-name lang="id">NBA TV HD</display-name>
-			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nbatv_hd.png" />
+	<channel id="NBA.TV.id">
+			<display-name lang="id">NBA TV</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nbatv.png" />
 	</channel>
-	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="NBA.TV.HD.id">
-			<title lang="id">NBA TV HD</title>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="NBA.TV.id">
+			<title lang="id">NBA TV</title>
 			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
