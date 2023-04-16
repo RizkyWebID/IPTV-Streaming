@@ -2480,4 +2480,325 @@
 		<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
 	</programme>
 
+
+
+	<channel id="TVRI.Aceh.id">
+			<display-name lang="id">TVRI Aceh</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Aceh.id">
+			<title lang="id">TVRI Aceh</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Bali.id">
+			<display-name lang="id">TVRI Bali</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Bali.id">
+			<title lang="id">TVRI Bali</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Bangka.Belitung.id">
+			<display-name lang="id">TVRI Bangka Belitung</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Bangka.Belitung.id">
+			<title lang="id">TVRI Bangka Belitung</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Bengkulu.id">
+			<display-name lang="id">TVRI Bengkulu</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Bengkulu.id">
+			<title lang="id">TVRI Bengkulu</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Gorontalo.id">
+			<display-name lang="id">TVRI Gorontalo</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Gorontalo.id">
+			<title lang="id">TVRI Gorontalo</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Jakarta.id">
+			<display-name lang="id">TVRI Jakarta</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Jakarta.id">
+			<title lang="id">TVRI Jakarta</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Jambi.id">
+			<display-name lang="id">TVRI Jambi</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Jambi.id">
+			<title lang="id">TVRI Jambi</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Jawa.Barat.id">
+			<display-name lang="id">TVRI Jawa Barat</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Jawa.Barat.id">
+			<title lang="id">TVRI Jawa Barat</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Jawa.Tengah.id">
+			<display-name lang="id">TVRI Jawa Tengah</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Jawa.Tengah.id">
+			<title lang="id">TVRI Jawa Tengah</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Jawa.Timur.id">
+			<display-name lang="id">TVRI Jawa Timur</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Jawa.Timur.id">
+			<title lang="id">TVRI Jawa Timur</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Kalimantan.Barat.id">
+			<display-name lang="id">TVRI Kalimantan Barat</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Kalimantan.Barat.id">
+			<title lang="id">TVRI Kalimantan Barat</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Kalimantan.Selatan.id">
+			<display-name lang="id">TVRI Kalimantan Selatan</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Kalimantan.Selatan.id">
+			<title lang="id">TVRI Kalimantan Selatan</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Kalimantan.Tengah.id">
+			<display-name lang="id">TVRI Kalimantan Tengah</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Kalimantan.Tengah.id">
+			<title lang="id">TVRI Kalimantan Tengah</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Kalimantan.Timur.id">
+			<display-name lang="id">TVRI Kalimantan Timur</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Kalimantan.Timur.id">
+			<title lang="id">TVRI Kalimantan Timur</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Kalimantan.Utara.id">
+			<display-name lang="id">TVRI Kalimantan Utara</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Kalimantan.Utara.id">
+			<title lang="id">TVRI Kalimantan Utara</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Kepulauan.Riau.id">
+			<display-name lang="id">TVRI Kepulauan Riau</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Kepulauan.Riau.id">
+			<title lang="id">TVRI Kepulauan Riau</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Lampung.id">
+			<display-name lang="id">TVRI Lampung</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Lampung.id">
+			<title lang="id">TVRI Lampung</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Maluku.id">
+			<display-name lang="id">TVRI Maluku</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Maluku.id">
+			<title lang="id">TVRI Maluku</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Nusa.Tenggara.Barat.id">
+			<display-name lang="id">TVRI Nusa Tenggara Barat</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Nusa.Tenggara.Barat.id">
+			<title lang="id">TVRI Nusa Tenggara Barat</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Nusa.Tenggara.Timur.id">
+			<display-name lang="id">TVRI Nusa Tenggara Timur</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Nusa.Tenggara.Timur.id">
+			<title lang="id">TVRI Nusa Tenggara Timur</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Papua.id">
+			<display-name lang="id">TVRI Papua</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Papua.id">
+			<title lang="id">TVRI Papua</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Papua.Barat.id">
+			<display-name lang="id">TVRI Papua Barat</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Papua.Barat.id">
+			<title lang="id">TVRI Papua Barat</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Riau.id">
+			<display-name lang="id">TVRI Riau</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Riau.id">
+			<title lang="id">TVRI Riau</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Sulawesi.Barat.id">
+			<display-name lang="id">TVRI Sulawesi Barat</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Sulawesi.Barat.id">
+			<title lang="id">TVRI Sulawesi Barat</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Sulawesi.Selatan.id">
+			<display-name lang="id">TVRI Sulawesi Selatan</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Sulawesi.Selatan.id">
+			<title lang="id">TVRI Sulawesi Selatan</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Sulawesi.Tengah.id">
+			<display-name lang="id">TVRI Sulawesi Tengah</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Sulawesi.Tengah.id">
+			<title lang="id">TVRI Sulawesi Tengah</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Sulawesi.Tenggara.id">
+			<display-name lang="id">TVRI Sulawesi Tenggara</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Sulawesi.Tenggara.id">
+			<title lang="id">TVRI Sulawesi Tenggara</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Sulawesi.Utara.id">
+			<display-name lang="id">TVRI Sulawesi Utara</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Sulawesi.Utara.id">
+			<title lang="id">TVRI Sulawesi Utara</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Sumatera.Barat.id">
+			<display-name lang="id">TVRI Sumatera Barat</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Sumatera.Barat.id">
+			<title lang="id">TVRI Sumatera Barat</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Sumatera.Selatan.id">
+			<display-name lang="id">TVRI Sumatera Selatan</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Sumatera.Selatan.id">
+			<title lang="id">TVRI Sumatera Selatan</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Sumatera.Utara.id">
+			<display-name lang="id">TVRI Sumatera Utara</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Sumatera.Utara.id">
+			<title lang="id">TVRI Sumatera Utara</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
+
+	<channel id="TVRI.Yogyakarta.id">
+			<display-name lang="id">TVRI Yogyakarta</display-name>
+			<icon src="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/TVDigital.png" />
+	</channel>
+	<programme start="20230121000000 +0700" stop="20300121000000 +0700" channel="TVRI.Yogyakarta.id">
+			<title lang="id">TVRI Yogyakarta</title>
+			<desc lang="id">IndiHomeTV Premium By RizkyWebID</desc>
+	</programme>
+
 </tv>
